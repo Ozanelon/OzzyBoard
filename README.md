@@ -24,4 +24,4 @@ as a base, with the following custom additions:
 
 ## Author
 
-Built by [ozankocer](https://github.com/Ozanelon) as part of Hack Club.
+Built by [Ozan Koçer](https://github.com/Ozanelon) as part of Hack Club.
