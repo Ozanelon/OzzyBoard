@@ -1,5 +1,7 @@
 # OzzyBoard
 
+![OzzyBoard 3D Render](https://github.com/Ozanelon/OzzyBoard/blob/main/photos/OzzyBoard.png?raw=true)
+
 A custom RP2040-based development board, built as a learning project.
 
 ## About
